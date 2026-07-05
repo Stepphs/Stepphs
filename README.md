@@ -2,7 +2,7 @@
 <h3>𝙞'𝙢 𝙎𝙩𝙚𝙥𝙝! 𝙘𝙝𝙚𝙘𝙠 𝙤𝙪𝙩 𝙢𝙮 𝙨𝙩𝙧𝙖𝙬 𝙞𝙛 𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 ˙𐃷˙</h3>
 <h4></h4>Tim Drake AND Stephanie Brown enthusiast</h4>
 <h4></h4>c+h, interact all you want! 𑣲</h4>
-<h4></h4><img width="256" height="53" alt="indir (18)" src="https://github.com/user-attachments/assets/ddf6a6d7-a54c-42de-b138-ba9f528b4110" /></h4>
+
 <h4 align="center">𓎢𓎠𓎟𓎠𓎠𓎟𓎠𓎡</h4>
 
 
