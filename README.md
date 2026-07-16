@@ -1,11 +1,3 @@
-<h3 align="center">ꪆৎ</h3>
-<h3 align="center">𝙞'𝙢 𝙎𝙩𝙚𝙥𝙝! 𝙘𝙝𝙚𝙘𝙠 𝙤𝙪𝙩 𝙢𝙮 𝙨𝙩𝙧𝙖𝙬 𝙞𝙛 𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 ˙𐃷˙</h3>
-
-<h4 align="center">Tim Drake AND Stephanie Brown enthusiast</h4>
-<h4 align="center">c+h, interact all you want! 𑣲</h4>
-
-<h4 align="center">𓎢𓎠𓎟𓎠𓎠𓎟𓎠𓎡</h4>
-
 <div align="center">
 <div style="position: relative; display: inline-block; width: 70%; margin: 20px auto;">
   <!-- Main background image -->
