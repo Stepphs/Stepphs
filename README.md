@@ -1,7 +1,10 @@
 <div align="center">
 <div style="position: relative; display: inline-block; width: 70%; margin: 20px auto;">
-  <!-- Main background image -->
-  <img width="100%" height="auto" alt="Main Background" src="https://plain-eeur-prod-public.komododecks.com/202607/16/VijySwYnR18JsjkwFlZ4/image.png" style="border-radius: 10px;" />
+  <!-- Main background video -->
+  <video width="100%" height="auto" style="border-radius: 10px;" autoplay muted loop>
+    <source src="https://screenapp.io/app/v/BQ7rLKaoVT" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 </div>
 
