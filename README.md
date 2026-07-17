@@ -1,7 +1,7 @@
 <div align="center">
 <div style="position: relative; display: inline-block; width: 70%; margin: 20px auto;">
   <!-- Main background image -->
-  <img width="100%" height="auto" alt="Main Background" src="YOUR_MAIN_IMAGE_URL_HERE" style="border-radius: 10px;" />
+  <img width="100%" height="auto" alt="Main Background" src="https://plain-eeur-prod-public.komododecks.com/202607/16/VijySwYnR18JsjkwFlZ4/image.png" style="border-radius: 10px;" />
   
   <!-- Animated bell in the center -->
   <div style="
@@ -29,7 +29,7 @@
         transform-origin: top center;
       }
     </style>
-    <img class="bell-container" width="80" height="80" alt="Swinging Bell" src="YOUR_BELL_IMAGE_URL_HERE" />
+    <img class="bell-container" width="80" height="80" alt="Swinging Bell" src="https://plain-eeur-prod-public.komododecks.com/202607/16/IgT5k6hEPcf6AuyEFYot/image.png" />
   </div>
 </div>
 </div>
