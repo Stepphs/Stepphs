@@ -12,7 +12,7 @@
 </div>
 
 <!-- Top images row -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 120px 0 0 0;">
 
   <img width="80" height="45" alt="615ad34ec9e8104c10d024574d1be8fa3778893b" src="https://github.com/user-attachments/assets/4b0ac088-1912-4866-99fe-ff173fc57c2a" />
   <img width="120" height="16" alt="stargazer" src="https://github.com/user-attachments/assets/444f3d62-3989-40fe-9af5-5289a183fac8" />
@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5ngnk63ok44ck7ge7hvlgbsqe&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5ngnk63ok44ck7ge7hvlgbsqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bbacaa">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m5ngnk63ok44ck7ge7hvlgbsqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&pr[...]
   </a>
 </p>
