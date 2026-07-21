@@ -1,5 +1,4 @@
 <div align="center">
-<di<div align="center">
 <div style="position: relative; display: inline-block; width: 70%; margin: 20px auto;">
   <!-- Top border/banner image (matches README width) -->
   <img src="https://github.com/user-attachments/assets/9bfee40e-509a-47d2-98c2-160decb172a3" alt="Top border" style="display:block; width:100%; height:auto; border-radius: 10px 10px 0 0;" />
@@ -11,10 +10,9 @@
 
 <!-- Top images row -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin: 20px 0;">
-
-  <img width="99" height="56" alt="615ad34ec9e8104c10d024574d1be8fa3778893b" src="https://github.com/user-attachments/assets/4b0ac088-1912-4866-99fe-ff173fc57c2a" />
-  <img width="150" height="20" alt="stargazer" src="https://github.com/user-attachments/assets/444f3d62-3989-40fe-9af5-5289a183fac8" />
-  <img width="99" height="56" alt="2-A318007-A978-4955-9911-B3-ACE2069-A92" src="https://github.com/user-attachments/assets/dfee7fd1-a64e-455e-86fb-98272458d9c8" />
+  <img width="75" height="10" alt="stargazer" src="https://github.com/user-attachments/assets/444f3d62-3989-40fe-9af5-5289a183fac8" />
+  <img width="50" height="28" alt="615ad34ec9e8104c10d024574d1be8fa3778893b" src="https://github.com/user-attachments/assets/4b0ac088-1912-4866-99fe-ff173fc57c2a" />
+  <img width="50" height="28" alt="2-A318007-A978-4955-9911-B3-ACE2069-A92" src="https://github.com/user-attachments/assets/dfee7fd1-a64e-455e-86fb-98272458d9c8" />
 </div>
 
 <h4 align="center">𓎢𓎠𓎟𓎠𓎠𓎟𓎠𓎡</h4>
