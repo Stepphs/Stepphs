@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <div style="margin: 40px 0;"></div>
@@ -7,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/9bfee40e-509a-47d2-98c2-160decb172a3" alt="Top border" style="display:block; width:100%; height:auto; border-radius: 10px 10px 0 0;" />
 <h4 align="center">‎ </h4>
     <!-- Main background gif -->
-  <img src="https://github.com/user-attachments/assets/9d38df4d-a1f1-404d-a97e-55ce340c3f44" style="border-radius: 0 0 10px 10px; width:100%; height: auto;" alt="Profile GIF">
+  <img src="https://github.com/user-attachments/assets/3f52e2f5-c56a-455e-b0f9-5b9713504b6e" style="border-radius: 0 0 10px 10px; width:100%; height: auto;" alt="Profile GIF">
 </div>
 </div>
 
